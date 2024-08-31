@@ -6,7 +6,7 @@
 💡 [Solved 문제해결 스터디](https://solved.ac/profile/xofo95/solved) 2024. 02 ~ **Now**  
 🍄 [메이플스토리 월드 슈퍼 해커톤 (수상)](https://enter.nexon.com/msw/mci22/program#showcase) 2022. 08 ~ 2022. 11  
 🎓 [한양사이버대학교(컴퓨터공학과)](https://www.hycu.ac.kr/user/index.do) 2021.03 ~ *2025. 01  
-🏢 [삼성전자 (S/W 개발 그룹)](https://www.samsung.com/sec/) 2014. 02 ~ 2021. 04  
+🏢 [삼성전자(네트워크/개발팀)](https://www.samsung.com/sec/) 2014. 02 ~ 2021. 04  
 🎓 [한국애니메이션고(컴퓨터게임제작과)](https://anigo-h.goegh.kr/anigo-h/main.do) 2011.03 ~ 2014. 02  
 
 ## Tech Stack👩🏻‍🌾  
