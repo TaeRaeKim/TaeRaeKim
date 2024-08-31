@@ -13,9 +13,10 @@
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,spring,jenkins,selenium,git,github,mysql,androidstudio,nodejs,react,html,css,js,ts,linux,vscode,unity,&perline=6)](https://skillicons.dev)
 <!-- https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
 
-<!-- 
+
 ## Hobby🤸‍♂️  
-<div style="display: flex;">
+![image](./images/hobby.png)
+<!-- <div style="display: flex;">
     <img src="./images/me.png" height="200px">
     <div style="display: flex;
         flex-direction: column;
@@ -23,7 +24,6 @@
         <img src="./images/maple2.png" height="100px" style="background: #EF6C33 ;">
         <img src="./images/maple.png" height="100px" style="background: #ABDFF1   ;">
     </div>
-    <img src="./images/ms.png" height="200px">
     <img src="./images/achery.png" height="200px">
     <div style="display: flex;
         flex-direction: column;
@@ -38,6 +38,6 @@
         <img src="./images/starcraft.png" height="100px" style="background: E1DDDB;">
         <img src="./images/starcraftA.png" height="100px" style="background: white;">
     </div>
-</div>
--->
+</div> -->
+
 
