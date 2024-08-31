@@ -1,16 +1,42 @@
-## Hi there 👋
+## History📝  
+🌳 [네이버 부스트캠프 9 멤버십](https://boostcamp.connect.or.kr/) 2024.08 ~ **Now**  
+🌳 [네이버 부스트캠프 9 베이직 & 챌린지](https://boostcamp.connect.or.kr/) 2024.06 ~ 2024.08  
+🧱 [마인크래프트 무슨서버](https://www.youtube.com/playlist?list=PLVontrELGlZ5WqskkuPyMrUKtwkpsrjnd) 2024. 03 ~ 2024. 05  
+🚗 [프로젝트 NsCar](https://github.com/TaeRaeKim/TaeRaeKim/raw/main/Project%20NSC.docx) 2024. 01 ~ 2024. 02  
+💡 [Solved 문제해결 스터디](https://solved.ac/profile/xofo95/solved) 2024. 02 ~ **Now**  
+🍄 [메이플스토리 월드 슈퍼 해커톤 (수상)](https://enter.nexon.com/msw/mci22/program#showcase) 2022. 08 ~ 2022. 11  
+🎓 [한양사이버대학교(컴퓨터공학과)](https://www.hycu.ac.kr/user/index.do) 2021.03 ~ *2025. 01  
+🏢 [삼성전자 (S/W 개발 그룹)](https://www.samsung.com/sec/) 2014. 02 ~ 2021. 04  
+🎓 [한국애니메이션고(컴퓨터게임제작과)](https://anigo-h.goegh.kr/anigo-h/main.do) 2011.03 ~ 2014. 02  
 
-<!--
-**TaeRaeKim/TaeRaeKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tech Stack👩🏻‍🌾  
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,spring,jenkins,selenium,git,github,mysql,androidstudio,nodejs,react,html,css,js,ts,linux,vscode,unity,&perline=6)](https://skillicons.dev)
+<!-- https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
 
-Here are some ideas to get you started:
+## Hobby🤸‍♂️  
+<div style="display: flex;">
+    <img src="./images/me.png" height="200px">
+    <div style="display: flex;
+        flex-direction: column;
+        height: 200px">
+        <img src="./images/maple2.png" height="100px" style="background: #EF6C33 ;">
+        <img src="./images/maple.png" height="100px" style="background: #ABDFF1   ;">
+    </div>
+    <img src="./images/ms.png" height="200px">
+    <img src="./images/achery.png" height="200px">
+    <div style="display: flex;
+        flex-direction: column;
+        height: 200px">
+        <img src="./images/lolchess.png" height="100px" style="background: black;">
+        <img src="./images/challenger.png" height="100px" style="background: #2D2F37 ;">
+    </div>
+    <img src="./images/climb.png" height="200px">
+    <div style="display: flex;
+        flex-direction: column;
+        height: 200px">
+        <img src="./images/starcraft.png" height="100px" style="background: E1DDDB;">
+        <img src="./images/starcraftA.png" height="100px" style="background: white;">
+    </div>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
