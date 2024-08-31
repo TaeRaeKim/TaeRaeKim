@@ -13,6 +13,7 @@
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,spring,jenkins,selenium,git,github,mysql,androidstudio,nodejs,react,html,css,js,ts,linux,vscode,unity,&perline=6)](https://skillicons.dev)
 <!-- https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
 
+<!-- 
 ## Hobby🤸‍♂️  
 <div style="display: flex;">
     <img src="./images/me.png" height="200px">
@@ -38,5 +39,5 @@
         <img src="./images/starcraftA.png" height="100px" style="background: white;">
     </div>
 </div>
-
+-->
 
