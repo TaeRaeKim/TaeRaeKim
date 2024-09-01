@@ -1,3 +1,5 @@
+![](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=TaeRae%20kim&section=header&reversal=true&textBg=false&fontAlign=50&animation=fadeIn&descAlign=50)
+
 ## History📝  
 
 🌳 [네이버 부스트캠프 9 멤버십](https://boostcamp.connect.or.kr/) 2024.08 ~ **Now**  
