@@ -2,8 +2,8 @@
 
 ## History📝  
 
-🌳 [네이버 부스트캠프 9 멤버십](https://boostcamp.connect.or.kr/) 2024.08 ~ 2025. 01
-💡 [Solved 문제해결 스터디(약 450문제)](https://solved.ac/profile/xofo95/solved) 2024. 02 ~ 2025. 01 
+🌳 [네이버 부스트캠프 9 멤버십](https://boostcamp.connect.or.kr/) 2024.08 ~ 2025. 01  
+💡 [Solved 문제해결 스터디(약 450문제)](https://solved.ac/profile/xofo95/solved) 2024. 02 ~ 2025. 01  
 🎓 [한양사이버대학교(컴퓨터공학과)](https://www.hycu.ac.kr/user/index.do) 2021.03 ~ *2025. 01  
 
 ## 
